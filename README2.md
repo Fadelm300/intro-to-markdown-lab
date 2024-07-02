@@ -18,6 +18,7 @@ The `Porsche 911 Turbo S 3.6`, introduced in 1994, represents the pinnacle of th
 - **Weight Reduction**: Porsche employed various weight-saving measures, including the use of lightweight materials and deletion of some non-essential features, resulting in a curb weight of around 3,197 lbs.
 - **Unique Design Elements**: The Turbo S featured distinctive design elements such as larger air intakes, a unique front spoiler, and lightweight Speedline wheels.
 
+
 ## 3-Production and Exclusivity
 
 - **Limited Production**: Only 93 units of the Turbo S 3.6 were produced, making it one of the rarest 911 models.
